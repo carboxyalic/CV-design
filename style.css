@@ -1,0 +1,19 @@
+body{background-color: #F8E3EA; font-family: 'Roboto', sans-serif;}
+.menuLink{color: #B988DE;font-size: 20px;}
+.menuLink:hover{color: white; background-color: #B36AD7;}
+img{transition: .5s;}
+img:hover{transform: scale(1.1);}
+.servicesHeading{font-weight: 900;}
+.servicesSubHeading{font-weight: 800;}
+.servicesIcon{font-size: 25px; color: #B988DE;}
+.verticalCenter{
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+}
+.navThree{
+    bottom: 0; left: 0; right: 0;
+}
